@@ -8,10 +8,15 @@ pip install opencv-python matplotlib
 Create Template Directory: Create a directory named templates in the same directory as your script. This directory should contain images of the alphanumeric characters you want to recognize. For example:
 
 A.png
+
 B.png
+
 1.png
+
 2.png
+
 etc.
+
 Image Files: Replace the paths in the image_files list with the actual paths to the images you want to analyze.
 
 Explanation of the Code
